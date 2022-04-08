@@ -97,6 +97,5 @@ server.use((req, res) => {
 //   res.status(404).json({ message: "Resource not found" });
 // });
 
-// 01:20 19 grabación 4 
 // //npm run dev para correr el servidor
 
